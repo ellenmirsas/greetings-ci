@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-18)
+
+
+### Features
+
+* version artifact ([d0befae](https://github.com/ellenmirsas/greetings-ci/commit/d0befae6b7ff68cee82cc363c02e78aea07cfc72))
+
+
+
 # [0.2.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-18)
 
 
