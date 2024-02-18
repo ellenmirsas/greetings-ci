@@ -1,4 +1,13 @@
-# 0.1.0 (2024-02-18)
+# [0.2.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-18)
+
+
+### Features
+
+* Upload artifact ([61d1843](https://github.com/ellenmirsas/greetings-ci/commit/61d1843f98dee2f145c3c9b378afc73509b5d52b))
+
+
+
+# [0.1.0](https://github.com/ellenmirsas/greetings-ci/compare/71eed3bf25e497bd68147d92b22054e920ffe3d5...v0.1.0) (2024-02-18)
 
 
 ### Bug Fixes
