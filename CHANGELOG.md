@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.6.1...v0.7.0) (2024-02-19)
+
+
+### Features
+
+* add deployment ([49843c6](https://github.com/ellenmirsas/greetings-ci/commit/49843c69e7e1f4518fda52b6997793c94d8b69da))
+
+
+
 ## [0.6.1](https://github.com/ellenmirsas/greetings-ci/compare/v0.6.0...v0.6.1) (2024-02-19)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add manual workflow ([4f8d674](https://github.com/ellenmirsas/greetings-ci/commit/4f8d6740f77f130e4928fb5e853174000ee45720))
-
-
-
-# [0.4.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-19)
-
-
-### Features
-
-* add testing to pipeline ([255c6e9](https://github.com/ellenmirsas/greetings-ci/commit/255c6e9dfa0565af68b4700bee79f4b8eeec9993))
 
 
 
