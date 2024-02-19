@@ -1,3 +1,12 @@
+## [0.7.1](https://github.com/ellenmirsas/greetings-ci/compare/v0.7.0...v0.7.1) (2024-02-19)
+
+
+### Bug Fixes
+
+* update to greeting for blue ([b2e00a7](https://github.com/ellenmirsas/greetings-ci/commit/b2e00a7f9a7e386eed0b9bd1b2a98facc772f85e))
+
+
+
 # [0.7.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.6.1...v0.7.0) (2024-02-19)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * security update ([39432c6](https://github.com/ellenmirsas/greetings-ci/commit/39432c6238288ee8b73ab91d568b33720549e38b))
-
-
-
-# [0.5.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.4.0...v0.5.0) (2024-02-19)
-
-
-### Features
-
-* add manual workflow ([4f8d674](https://github.com/ellenmirsas/greetings-ci/commit/4f8d6740f77f130e4928fb5e853174000ee45720))
 
 
 
