@@ -1,4 +1,31 @@
-# 0.1.0 (2024-02-18)
+# [0.4.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-19)
+
+
+### Features
+
+* add testing to pipeline ([255c6e9](https://github.com/ellenmirsas/greetings-ci/commit/255c6e9dfa0565af68b4700bee79f4b8eeec9993))
+
+
+
+# [0.3.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-18)
+
+
+### Features
+
+* version artifact ([d0befae](https://github.com/ellenmirsas/greetings-ci/commit/d0befae6b7ff68cee82cc363c02e78aea07cfc72))
+
+
+
+# [0.2.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-18)
+
+
+### Features
+
+* Upload artifact ([61d1843](https://github.com/ellenmirsas/greetings-ci/commit/61d1843f98dee2f145c3c9b378afc73509b5d52b))
+
+
+
+# [0.1.0](https://github.com/ellenmirsas/greetings-ci/compare/71eed3bf25e497bd68147d92b22054e920ffe3d5...v0.1.0) (2024-02-18)
 
 
 ### Bug Fixes
