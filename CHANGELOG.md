@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.4.0...v0.5.0) (2024-02-19)
+
+
+### Features
+
+* add manual workflow ([4f8d674](https://github.com/ellenmirsas/greetings-ci/commit/4f8d6740f77f130e4928fb5e853174000ee45720))
+
+
+
 # [0.4.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-19)
 
 
