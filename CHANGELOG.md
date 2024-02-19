@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-19)
+
+
+### Features
+
+* add testing to pipeline ([255c6e9](https://github.com/ellenmirsas/greetings-ci/commit/255c6e9dfa0565af68b4700bee79f4b8eeec9993))
+
+
+
 # [0.3.0](https://github.com/ellenmirsas/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-18)
 
 
